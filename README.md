@@ -4,3 +4,6 @@ All information and projects related to Raspberry Pi are stored here
 
 Start:
 - https://www.raspberrypi.com/documentation/computers/getting-started.html
+
+
+https://www.home-assistant.io/
